@@ -1,0 +1,7 @@
+.DS_Store
+target
+pom.xml
+.classpath
+.settings
+.project
+src
